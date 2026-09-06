@@ -8,7 +8,7 @@
 
 <br/>
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=SAKTHIVELAN-27.SAKTHIVELAN-27&left_color=0d1117&right_color=00d4ff&left_text=PROFILE+VIEWS&style=for-the-badge)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSAKTHIVELAN-27&count_bg=%2300d4ff&title_bg=%230d1117&icon=github&icon_color=%23FFFFFF&title=PROFILE+VIEWS&edge_flat=false)](https://hits.seeyoufarm.com)
 &nbsp;
 ![Followers](https://img.shields.io/github/followers/SAKTHIVELAN-27?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=FOLLOWERS)
 
