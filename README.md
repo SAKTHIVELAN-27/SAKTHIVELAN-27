@@ -8,7 +8,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SAKTHIVELAN-27&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=SAKTHIVELAN-27.SAKTHIVELAN-27&left_color=0d1117&right_color=00d4ff&left_text=PROFILE+VIEWS&style=for-the-badge)
 &nbsp;
 ![Followers](https://img.shields.io/github/followers/SAKTHIVELAN-27?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=FOLLOWERS)
 
@@ -169,6 +169,5 @@ Status     : Actively Learning & Building 🚀
 
 <br/>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SAKTHIVELAN-27.SAKTHIVELAN-27&left_color=black&right_color=00d4ff)
 
 </div>
