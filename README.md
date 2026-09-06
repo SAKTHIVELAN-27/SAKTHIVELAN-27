@@ -61,7 +61,7 @@ Status     : Actively Learning & Building 🚀
 <!-- Skill Icons -->
 <div align="center">
 
-### 🎯 Tech Stack — Skill Icons
+### 🎯 Tech Stack
 
 #### Known
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,c,cpp&theme=dark)](https://skillicons.dev)
@@ -107,16 +107,7 @@ Status     : Actively Learning & Building 🚀
 
 
 
----
 
-<!-- Activity Graph -->
-<div align="center">
-
-### 📈 Contribution Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SAKTHIVELAN-27&bg_color=0D1117&color=00d4ff&line=00d4ff&point=00d4ff&area=true&hide_border=true" width="96%" alt="Activity Graph"/>
-
-</div>
 
 ---
 
