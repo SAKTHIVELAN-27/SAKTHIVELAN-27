@@ -105,11 +105,16 @@ Status     : Actively Learning & Building 🚀
 
 <br/><br/>
 
-<!-- GitHub Stats — with cache to avoid rate limit ✅ -->
-<img src="https://github-readme-stats.vercel.app/api?username=SAKTHIVELAN-27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&count_private=true&include_all_commits=true&cache_seconds=1800" width="48%" alt="GitHub Stats"/>
+<!-- GitHub Profile Summary Cards — more reliable alternative ✅ -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SAKTHIVELAN-27&theme=tokyonight" width="48%" alt="GitHub Stats"/>
 &nbsp;
-<!-- Top Languages ✅ -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAKTHIVELAN-27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8&cache_seconds=1800" width="46%" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SAKTHIVELAN-27&theme=tokyonight" width="46%" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SAKTHIVELAN-27&theme=tokyonight" width="48%" alt="Most Used Languages"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SAKTHIVELAN-27&theme=tokyonight&utcOffset=5.5" width="46%" alt="Productive Time"/>
 
 </div>
 
