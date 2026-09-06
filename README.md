@@ -1,12 +1,16 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=SAKTHIVELAN.SS&fontSize=55&fontColor=00d4ff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=18&descColor=a0aec0&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=SAKTHIVELAN.SS&fontSize=55&fontColor=00d4ff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Enthusiast&descSize=18&descColor=a0aec0&descAlignY=60" width="100%"/>
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=750&height=60&lines=Hey+there!+I'm+Sakthivelan+%F0%9F%91%8B;Full+Stack+developer+%7C+%F0%9F%9A%80;Microsoft+Innovation+Club+Member+%F0%9F%94%B5;VIT+Chennai+Student+%F0%9F%8E%93;Open+Source+Contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
+<!-- Typing Animation — Only Full Stack Developer -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=600&height=70&lines=Full+Stack+Developer)](https://git.io/typing-svg)
 
+<br/>
 
+![Profile Views](https://komarev.com/ghpvc/?username=SAKTHIVELAN-27&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/SAKTHIVELAN-27?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=FOLLOWERS)
 
 </div>
 
@@ -46,6 +50,9 @@ Status     : Actively Learning & Building 🚀
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakthivelan.ss27@gmail.com)
 &nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SAKTHIVELAN-27)
+&nbsp;
+![MIC](https://img.shields.io/badge/Microsoft_Innovation_Club-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 </div>
 
@@ -88,47 +95,68 @@ Status     : Actively Learning & Building 🚀
 
 ---
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats — Using only reliable services -->
 <div align="center">
 
 ### 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=SAKTHIVELAN-27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SAKTHIVELAN-27&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" width="48%" alt="GitHub Streak"/>
+<!-- Streak Stats — Working ✅ -->
+<img src="https://streak-stats.demolab.com/?user=SAKTHIVELAN-27&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=a0aec0" width="60%" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAKTHIVELAN-27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" width="50%" alt="Top Languages"/>
+<!-- GitHub Stats — with cache to avoid rate limit ✅ -->
+<img src="https://github-readme-stats.vercel.app/api?username=SAKTHIVELAN-27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&count_private=true&include_all_commits=true&cache_seconds=1800" width="48%" alt="GitHub Stats"/>
+&nbsp;
+<!-- Top Languages ✅ -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAKTHIVELAN-27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8&cache_seconds=1800" width="46%" alt="Top Languages"/>
 
 </div>
 
 ---
 
-<!-- Trophies -->
+<!-- Skills Progress -->
 <div align="center">
 
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=SAKTHIVELAN-27&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="Trophies"/>
+### 🚀 Skills Progress
 
 </div>
 
+| Skill | Level | Progress |
+|-------|-------|----------|
+| **HTML / CSS** | Expert | `████████████████████` 95% |
+| **JavaScript** | Advanced | `███████████████████░` 90% |
+| **React.js** | Intermediate | `████████████████░░░░` 80% |
+| **Tailwind CSS** | Intermediate | `███████████████░░░░░` 75% |
+| **Java** | Intermediate | `████████████████░░░░` 80% |
+| **C / C++** | Intermediate | `███████████████░░░░░` 75% |
+| **Node.js / Express** | Beginner+ | `████████████░░░░░░░░` 60% |
+| **MongoDB** | Learning | `███████████░░░░░░░░░` 55% |
+| **SQL** | Learning | `██████████░░░░░░░░░░` 50% |
+
 ---
 
-<!-- Activity Graph -->
+<!-- MERN Journey -->
 <div align="center">
 
-### 📈 Contribution Activity Graph
+### 🌱 My MERN Stack Journey
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SAKTHIVELAN-27&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff&hide_border=true" width="100%" alt="Activity Graph"/>
+```
+╔══════════════════════════════════════════╗
+║       🚀 MERN STACK ROADMAP             ║
+╠══════════════════════════════════════════╣
+║  MongoDB  ──────────── [Learning  🔄]   ║
+║  Express  ──────────── [Learning  🔄]   ║
+║  React    ──────────── [Building  ⚛️ ]   ║
+║  Node.js  ──────────── [Learning  🔄]   ║
+║                 ↓                        ║
+║       Full Stack Developer 🎯            ║
+╚══════════════════════════════════════════╝
+```
 
 </div>
 
 ---
-
-
-
 
 <!-- Community -->
 <div align="center">
@@ -150,21 +178,6 @@ Status     : Actively Learning & Building 🚀
 ### 💬 Dev Quote of the Day
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Random Dev Quote"/>
-
-</div>
-
----
-
-<!-- Snake Animation -->
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SAKTHIVELAN-27/SAKTHIVELAN-27/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SAKTHIVELAN-27/SAKTHIVELAN-27/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/SAKTHIVELAN-27/SAKTHIVELAN-27/output/github-snake-dark.svg"/>
-</picture>
 
 </div>
 
