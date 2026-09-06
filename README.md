@@ -105,16 +105,7 @@ Status     : Actively Learning & Building 🚀
 
 </div>
 
----
 
-<!-- GitHub Trophies -->
-<div align="center">
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=SAKTHIVELAN-27&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="96%" alt="GitHub Trophies"/>
-
-</div>
 
 ---
 
@@ -123,7 +114,7 @@ Status     : Actively Learning & Building 🚀
 
 ### 📈 Contribution Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SAKTHIVELAN-27&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=1a1a2e&hide_border=true&radius=8" width="96%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SAKTHIVELAN-27&bg_color=0D1117&color=00d4ff&line=00d4ff&point=00d4ff&area=true&hide_border=true" width="96%" alt="Activity Graph"/>
 
 </div>
 
