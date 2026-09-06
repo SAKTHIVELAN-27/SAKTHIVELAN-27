@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=SAKTHIVELAN.SS&fontSize=55&fontColor=00d4ff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AIML%20Enthusiast&descSize=18&descColor=a0aec0&descAlignY=60" width="100%"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=750&height=70&lines=Hi+%F0%9F%91%8B+I+am+Sakthivelan!;Full+Stack+Developer+%F0%9F%9A%80;AI+ML+Enthusiast+%E2%9A%9B%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F;Microsoft+Innovation+Club+Member+%F0%9F%94%B5;VIT+Chennai+Student+%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=750&height=70&lines=Hi+%F0%9F%91%8B+I+am+Sakthivelan!;Full+Stack+Developer+%F0%9F%9A%80;AI+ML+Enthusiast;Open+Source+Contributor+%F0%9F%8C%9F;Microsoft+Innovation+Club+Member+%F0%9F%94%B5;VIT+Chennai+Student+%F0%9F%8E%93)](https://git.io/typing-svg)
 
 <br/>
 
@@ -132,25 +132,7 @@ Status     : Actively Learning & Building 🚀
 
 ---
 
-<!-- MERN Journey -->
-<div align="center">
 
-### 🌱 My MERN Stack Journey
-
-```
-╔══════════════════════════════════════════╗
-║       🚀 MERN STACK ROADMAP             ║
-╠══════════════════════════════════════════╣
-║  MongoDB  ──────────── [Learning  🔄]   ║
-║  Express  ──────────── [Learning  🔄]   ║
-║  React    ──────────── [Building  ⚛️ ]   ║
-║  Node.js  ──────────── [Learning  🔄]   ║
-║                 ↓                        ║
-║       Full Stack Developer 🎯            ║
-╚══════════════════════════════════════════╝
-```
-
-</div>
 
 ---
 
