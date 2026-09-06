@@ -50,9 +50,6 @@ Status     : Actively Learning & Building 🚀
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakthivelan.ss27@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SAKTHIVELAN-27)
-&nbsp;
-![MIC](https://img.shields.io/badge/Microsoft_Innovation_Club-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 </div>
 
