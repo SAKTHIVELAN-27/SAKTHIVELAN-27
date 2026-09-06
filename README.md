@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=SAKTHIVELAN.SS&fontSize=55&fontColor=00d4ff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Enthusiast&descSize=18&descColor=a0aec0&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=SAKTHIVELAN.SS&fontSize=55&fontColor=00d4ff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=18&descColor=a0aec0&descAlignY=60" width="100%"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=750&height=60&lines=Hey+there!+I'm+Sakthivelan+%F0%9F%91%8B;Full+Stack+%7C+%F0%9F%9A%80;Microsoft+Innovation+Club+Member+%F0%9F%94%B5;VIT+Chennai+Student+%F0%9F%8E%93;Open+Source+Contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=750&height=60&lines=Hey+there!+I'm+Sakthivelan+%F0%9F%91%8B;Full+Stack+developer+%7C+%F0%9F%9A%80;Microsoft+Innovation+Club+Member+%F0%9F%94%B5;VIT+Chennai+Student+%F0%9F%8E%93;Open+Source+Contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 
 
