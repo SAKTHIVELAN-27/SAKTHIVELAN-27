@@ -6,11 +6,7 @@
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=750&height=60&lines=Hey+there!+I'm+Sakthivelan+%F0%9F%91%8B;Full+Stack+%7C+MERN+Stack+Developer+%F0%9F%9A%80;Microsoft+Innovation+Club+Member+%F0%9F%94%B5;VIT+Chennai+Student+%F0%9F%8E%93;Open+Source+Contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
-<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SAKTHIVELAN-27&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
-&nbsp;
-![Followers](https://img.shields.io/github/followers/SAKTHIVELAN-27?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=FOLLOWERS)
 
 </div>
 
@@ -50,9 +46,6 @@ Status     : Actively Learning & Building 🚀
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakthivelan.ss27@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SAKTHIVELAN-27)
-&nbsp;
-![MIC](https://img.shields.io/badge/Microsoft_Innovation_Club-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 </div>
 
@@ -134,48 +127,8 @@ Status     : Actively Learning & Building 🚀
 
 ---
 
-<!-- Skills Progress -->
-<div align="center">
 
-### 🚀 Skills Progress
 
-</div>
-
-| Skill | Level | Progress |
-|-------|-------|----------|
-| **HTML / CSS** | Expert | `████████████████████` 95% |
-| **JavaScript** | Advanced | `███████████████████░` 90% |
-| **React.js** | Intermediate | `████████████████░░░░` 80% |
-| **Tailwind CSS** | Intermediate | `███████████████░░░░░` 75% |
-| **Java** | Intermediate | `████████████████░░░░` 80% |
-| **C / C++** | Intermediate | `███████████████░░░░░` 75% |
-| **Node.js / Express** | Beginner+ | `████████████░░░░░░░░` 60% |
-| **MongoDB** | Learning | `███████████░░░░░░░░░` 55% |
-| **SQL** | Learning | `██████████░░░░░░░░░░` 50% |
-
----
-
-<!-- MERN Journey -->
-<div align="center">
-
-### 🌱 My MERN Stack Journey
-
-```
-╔══════════════════════════════════════════╗
-║       🚀 MERN STACK ROADMAP             ║
-╠══════════════════════════════════════════╣
-║  MongoDB  ──────────── [Learning  🔄]   ║
-║  Express  ──────────── [Learning  🔄]   ║
-║  React    ──────────── [Building  ⚛️ ]   ║
-║  Node.js  ──────────── [Learning  🔄]   ║
-║                 ↓                        ║
-║       Full Stack Developer 🎯            ║
-╚══════════════════════════════════════════╝
-```
-
-</div>
-
----
 
 <!-- Community -->
 <div align="center">
