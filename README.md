@@ -3,7 +3,7 @@
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=SAKTHIVELAN.SS&fontSize=55&fontColor=00d4ff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Enthusiast&descSize=18&descColor=a0aec0&descAlignY=60" width="100%"/>
 
-<!-- Typing Animation — Only Full Stack Developer -->
+<!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=600&height=70&lines=Full+Stack+Developer)](https://git.io/typing-svg)
 
 <br/>
@@ -58,63 +58,72 @@ Status     : Actively Learning & Building 🚀
 
 ---
 
-<!-- Tech Stack -->
+<!-- Skill Icons -->
 <div align="center">
 
-### 🛠️ Tech Stack & Tools
+### 🎯 Tech Stack — Skill Icons
 
-#### 💻 Languages I Know
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+#### Known
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,c,cpp&theme=dark)](https://skillicons.dev)
 
-#### ⚛️ Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+#### Learning
+[![Learning](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark)](https://skillicons.dev)
 
-#### 🗄️ Currently Learning — MERN Stack
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### 🔧 Tools & Platforms
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+#### Tools
+[![Tools](https://skillicons.dev/icons?i=vscode,git,github,postman,jupyter&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ---
 
-<!-- GitHub Stats — Using only reliable services -->
+<!-- GitHub Stats -->
 <div align="center">
 
 ### 📊 GitHub Statistics
 
-<!-- Streak Stats — Working ✅ -->
-<img src="https://streak-stats.demolab.com/?user=SAKTHIVELAN-27&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=a0aec0" width="60%" alt="GitHub Streak"/>
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com/?user=SAKTHIVELAN-27&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=a0aec0" width="70%" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<!-- GitHub Profile Summary Cards — more reliable alternative ✅ -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SAKTHIVELAN-27&theme=tokyonight" width="48%" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SAKTHIVELAN-27&theme=tokyonight" width="46%" alt="Top Languages"/>
+<!-- Profile Details — Wide Overview Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAKTHIVELAN-27&theme=tokyonight" width="96%" alt="Profile Details"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SAKTHIVELAN-27&theme=tokyonight" width="48%" alt="Most Used Languages"/>
+<!-- Stats + Repos per Language -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SAKTHIVELAN-27&theme=tokyonight" width="32%" alt="GitHub Stats"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SAKTHIVELAN-27&theme=tokyonight&utcOffset=5.5" width="46%" alt="Productive Time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SAKTHIVELAN-27&theme=tokyonight" width="30%" alt="Repos per Language"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SAKTHIVELAN-27&theme=tokyonight" width="30%" alt="Most Commit Language"/>
+
+<br/><br/>
+
+<!-- Productive Time -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SAKTHIVELAN-27&theme=tokyonight&utcOffset=5.5" width="48%" alt="Productive Time"/>
+
+</div>
+
+---
+
+<!-- GitHub Trophies -->
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=SAKTHIVELAN-27&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="96%" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+<!-- Activity Graph -->
+<div align="center">
+
+### 📈 Contribution Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SAKTHIVELAN-27&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=1a1a2e&hide_border=true&radius=8" width="96%" alt="Activity Graph"/>
 
 </div>
 
@@ -182,7 +191,7 @@ Status     : Actively Learning & Building 🚀
 
 ### 💬 Dev Quote of the Day
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Random Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="96%" alt="Random Dev Quote"/>
 
 </div>
 
